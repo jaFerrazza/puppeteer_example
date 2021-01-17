@@ -1,0 +1,26 @@
+{
+  "name": "pup_example",
+  "version": "1.0.0",
+  "description": "Puppeteer example with GCP integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaFerrazza/puppeteer_example.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "GCP"
+  ],
+  "author": "jaFerrazza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaFerrazza/puppeteer_example/issues"
+  },
+  "homepage": "https://github.com/jaFerrazza/puppeteer_example#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
