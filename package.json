@@ -4,7 +4,7 @@
   "description": "Puppeteer example with GCP integration",
   "main": "index.js",
   "scripts": {
-    "test": "node ./tests/*.js"
+    "test": "node ./tests/example.js"
   },
   "repository": {
     "type": "git",
